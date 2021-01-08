@@ -1,0 +1,23 @@
+{
+  "name": "own-runner",
+  "version": "1.0.0",
+  "description": "testing own runner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novousernx/own-runner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novousernx/own-runner/issues"
+  },
+  "homepage": "https://github.com/novousernx/own-runner#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
